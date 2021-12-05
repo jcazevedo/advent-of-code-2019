@@ -1,3 +1,5 @@
+_This repository has been merged with [jcazevedo/advent-of-code-solutions](https://github.com/jcazevedo/advent-of-code-solutions)._
+
 # Advent of Code 2019
 
 My solutions for [Advent of Code 2019][adventofcode2019], in C++.
